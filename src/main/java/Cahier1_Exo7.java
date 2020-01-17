@@ -12,5 +12,6 @@ public class Cahier1_Exo7 {
         String prenom = sc.nextLine();
         //Affichage du nom complet
         System.out.println("Votre nom complet est : " + nom + " " + prenom);
+        System.out.println("Bienvenue dans la formation POEI!!");
     }
 }
